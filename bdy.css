@@ -1,0 +1,11 @@
+body{
+
+  background-image: url("happy-birthday-wallpaper-768x442.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+  font-family: 'Merienda', cursive;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Satisfy', cursive;
+  color: white;
+}
